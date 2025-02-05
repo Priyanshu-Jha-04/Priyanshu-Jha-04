@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu-jha-04&show_icons=true&locale=en&layout=compact" alt="priyanshu-jha-04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-jha-04&show_icons=true&locale=en" alt="priyanshu-jha-04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-jha-04&theme=vision-friendly-dark&show_icons=true&locale=en" alt="priyanshu-jha-04" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu%20Jha&theme=dark" alt="GitHub Streak" /></a>
 
