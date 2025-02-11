@@ -74,4 +74,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-jha-04&theme=vision-friendly-dark&show_icons=true&locale=en" alt="priyanshu-jha-04" /></p>
 
-![priyanshu-jha-04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-jha-04&theme=vision-friendly-dark&hide_border=false)
+![priyanshu-jha-04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-jha-04&theme=vision-friendly-dark&hide_border=true)
