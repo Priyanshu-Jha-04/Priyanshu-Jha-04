@@ -73,6 +73,5 @@
 ![priyanshu-jha-04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-jha-04&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-jha-04&theme=vision-friendly-dark&show_icons=true&locale=en" alt="priyanshu-jha-04" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Priyanshu-Jha-04&theme=vision-friendly-dark)](https://git.io/streak-stats)
+![Priyanshu-Jha-04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Jha-04&theme=vue-dark&hide_border=false)
 
