@@ -70,7 +70,7 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Jha-04&layout=compact&theme=vision-friendly-dar)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Jha-04&layout=compact&theme=vision-friendly-dark)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-jha-04&theme=vision-friendly-dark&show_icons=true&locale=en" alt="priyanshu-jha-04" /></p>
 
