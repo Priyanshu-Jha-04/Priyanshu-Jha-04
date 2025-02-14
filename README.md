@@ -76,4 +76,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-jha-04&theme=vision-friendly-dark&show_icons=true&locale=en" alt="priyanshu-jha-04" /></p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Priyanshu-Jha-04&theme=vision-friendly-dark" alt="Priyanshu-Jha-04" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Priyanshu-Jha-04&theme=vision-friendly-dark" alt="GiuHub Stats" /></a>
